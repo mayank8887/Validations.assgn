@@ -1,0 +1,19 @@
+{
+  "name": "day8-validations",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "server": "nodemon src/server"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.3",
+    "express-validator": "^6.14.0",
+    "mongoose": "^6.2.6",
+    "nodemon": "^2.0.15",
+    "validator": "^13.7.0"
+  }
+}
